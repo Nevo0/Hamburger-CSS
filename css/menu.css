@@ -1,0 +1,16 @@
+:root {
+    --primary-color: rgba(12, 110, 139, 0.75);
+    --overlay-color: rgba(24, 29, 51, 0.85);
+    --menu-speed: 0.75s;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4
+}
